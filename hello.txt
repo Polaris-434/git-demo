@@ -1,7 +1,6 @@
 hello Git
 hello Git
-hello Git
-hello Git
+------------------------------------------hot-fix
 hello Git
 hello Git
 hello Git
